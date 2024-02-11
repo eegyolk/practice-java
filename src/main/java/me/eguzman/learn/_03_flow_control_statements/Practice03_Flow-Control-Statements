@@ -1,0 +1,31 @@
+1.) Write a Java program that, given a number, prints out whether it is positive or negative.
+int num = 48;
+
+2.) Write a Java program that, given three numbers, prints out the greatest number.
+int num1 = 48;
+int num2 = 12;
+int num3 = 37;
+
+3.) Write a Java program that, given a year, prints out whether it is a leap year or not.
+
+4.) Write a Java program for the following scenario: A company decides to give a bonus of 5% to the employees if their years of service are more than 5 years.
+So, given a number of years of service and a salary, print out the bonus.
+int years = 8;
+double salary = 65000;
+
+5.) Write a Java program for the following scenario: A student will not be allowed to sit in an exam if his attendance is less than 75%.
+Given the number of classes held and the number of classes attended, print out the percentage of classes attended and whether the student is allowed to sit in the exam or not.
+  int classesHeld = 9;
+  int classesAttented = 6;
+
+6.) Write a program in Java that prints numbers from 1 to 3 in the console.
+
+7.) Write a program in Java that prints numbers from 1 to 10,000 in the console.
+
+8.) Write a program in Java that prints the first 20 prime numbers in the console.
+
+9.) Write a program in Java that prints the first 30 even numbers in the console.
+
+10.) Write a program in Java that prints the squares of the first 30 natural numbers in the console.
+
+11.) Write a program in Java that prints 200 times the word "Hello."  Note: in your source code, you must only enter the word "Hello."
