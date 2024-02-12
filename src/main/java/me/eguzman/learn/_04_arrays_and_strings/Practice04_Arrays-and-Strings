@@ -1,0 +1,47 @@
+Use the following array for questions 1 to 7:
+int[] array = {7, 3, 6, 2, 8, 1, 5, 4, 9, 10};
+
+Use the following string for questions 8 to 12:
+String str = “I love coding in Java”;
+
+1.) Write a Java program to sum the values of the array. Print out the sum.
+   
+2.) Write a Java program to calculate the average value of the array elements. Print out the average value.
+
+3.) Write a Java program to test if the array contains the value 5. Print out a message indicating if the value was found.
+
+4.) Write a Java program to find the index of value 4 in the array.
+
+5.) Write a Java program to find the maximum and minimum values in the array.
+
+6.) Write a Java program to reverse the array.
+
+7.) Write a Java program to find the number of even and odd integers in the array.
+
+8.) Write a Java program to get the character at the index 7 within the following string.
+ 
+9.) Write a Java program to get the character's ASCII code at the index 8 in the string.
+
+10.) Write a Java program to sum the character's ASCII codes of all the characters in the string.
+
+11.) Write a Java program to check whether the string ends in “ava”.
+
+12.) Write a Java program to reverse the string.
+
+13.) Write a Java program to compare the following two strings, ignoring case considerations.
+   String str1 = “I love coding in Java”;
+   String str2 = “I Love Coding In Java”;
+   
+14.) Write a Java program to get the index of all the alphabet characters in the following string.
+   String str = "The quick brown fox jumps over the lazy dog.";
+   
+15.) Write a Java program to check whether the first two characters appear at the end of the following string.
+   String str = “educated”;
+   
+16.) Write a Java program to check whether the following string has duplicate characters (exclude blank spaces).
+        String str = “I love coding in Java”;
+        
+17.) Write a Java program to check whether the character “z” is happy or not in the following string.
+A character is happy when the same character appears to its left or right in a string.
+   String str = “azzlea”;
+   
