@@ -1,0 +1,14 @@
+1.) Write a program in Java that reads an integer from the keyboard and sums all the following 100 numbers, including the number given, 
+showing the result on the screen.
+
+2.) Write a program in Java that converts from Canadian dollars to US dollars. 
+You will get a decimal number corresponding to the amount in CAD from the keyboard and print out an answer with the corresponding amount 
+in US dollars. Use today’s exchange rate. Note: Use the scanner class to get the User input.
+
+3.) Write a program in Java that reads two numbers from the keyboard and says which is the largest and which is the smallest.
+
+4.) Write a Java program that reads 10 integer numbers from the keyboard to print the average.
+
+5.) Write a Java program that generates a random number from 1 to 20, giving the user three chances to guess the number.
+Display a message indicating if the user guessed the number. 
+Hint: You can use the Math library to generate the random number.
