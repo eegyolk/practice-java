@@ -1,0 +1,25 @@
+1.) Write a Java program to create a class called "Person" with a name and age attribute. 
+Create two instances of the "Person" class, set their attributes using a constructor, and print their name and age.
+
+2.) Write a Java program to create a class called "Dog" with a name and breed attribute. 
+Create two instances of the "Dog" class, set their attributes using the constructor, modify them using the setter methods and 
+print the updated values.
+
+3.) Write a Java program to create a class called "Rectangle" with width and height attributes. 
+Create a parameterized constructor and two methods that find the area and perimeter of the rectangle. 
+Create an object of “Rectangle” and display the area and perimeter. 
+
+4.) Write a Java program to create a class called "Circle" with a radius attribute. 
+You can access and modify this attribute. Create methods to find the area and circumference of the circle. 
+Create an object of “Circle”, set a value for the radius and display the area and circumference. 
+
+5.) Write a Java program to create a class called "Book" with attributes for the title, author, and ISBN, 
+a parameterized constructor and a display() method that prints out the book information. 
+In another class, create an array of books, add three books, and print the books by looping the array over.
+
+6.) Write a Java program to create a class called "TrafficLight" with attributes for colour and duration, a 
+parameterized constructor and methods to change the colour and check for red or green. 
+The method that changes the colour automatically changes from red to green and vice versa.
+
+7.) Write a Java program to create a class called "Employee" with a name, job title, salary attributes, a 
+parameterized constructor and methods to retrieve and update the salary.
