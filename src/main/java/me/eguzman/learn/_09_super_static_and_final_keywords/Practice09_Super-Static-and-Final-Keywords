@@ -1,0 +1,13 @@
+1.) Write a Java program to create a class Animal with a parameterized constructor that initializes a String attribute called name. 
+Create a class Dog that extends the class Animal with a parameterized constructor that takes String two parameters and 
+initializes a Dog’s attribute called breed and calls the Animal class constructor to initialize the name attribute.
+
+2.) Write a Java program to create a class Calculator with a method called add() that takes two integers and returns their sum and 
+another method called multiply() that takes two integers and returns their multiplication. 
+Create another class that calls the methods add() and multiply() of the Calculator class without creating an instance of Calculator. 
+Hint: make the methods static.
+
+3.) Write a Java program to create a class Printer with an int attribute called id, a constructor that initializes the id attribute and 
+a method called display() that prints out the class name. 
+The display() method cannot be overridden, and the id cannot be modified once initialized by the constructor. 
+Hint: use the final keyword accordingly.
